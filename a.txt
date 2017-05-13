@@ -1,2 +1,3 @@
 Hai
 welcome to github
+it is mostly used for code
